@@ -1,0 +1,7 @@
+
+Git parancsok:
+
+git init - #új repo
+git status - #milyen fileok vannak
+touch index.html - #létrehozom az index.html filet.
+git add index.html - #hozzáadom a színpadhoz
